@@ -72,6 +72,8 @@
     flex-direction: column;
     justify-content: space-between;
     height: 25px;
+    border: none;
+    background-color: transparent;
     cursor: pointer;
 
     &:hover &-item {
